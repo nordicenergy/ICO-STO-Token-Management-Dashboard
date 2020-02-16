@@ -2,6 +2,8 @@
 
 # Nordic Energy - ICO & STO Launch Platform
 
+![Dashboard](docs/images/dashboard.png)
+
 is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
 
 1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO/STO’s progress. 
