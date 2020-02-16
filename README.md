@@ -80,13 +80,16 @@ In Transaction section you can see all the transaction you have made. In latest 
 
 ![Transactions](docs/images/transactions.png)
 
+
 #### Referral & Bonus System
 
 Dashboard has built-in referral bonus management system so investor/contributor can invite more people to bring into our platform. You can specify the bonus amount for both user as who invite and who join and bonus will automatically adjust once transaction approved.
 
-![Referral](docs/images/refellar.png)
+![Referrals](docs/images/referrals.png)
 
 #### Security & Privacy Policy
+
+
 
 ##### Two-Factor Verification (2FA):
 
