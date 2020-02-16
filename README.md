@@ -19,9 +19,9 @@ We do not store any tokens, crypto assets or private keys on your behalf. All tr
 
 
 
-#### Payment Methods
+#### Accept Payments
 
-Accept payments with Visa/MasterCard, PayPal, Bank Transfer, Bitcoin, EOSIO, Ethereum, +25 cryptocurrencies to pay tokens directly on addresses and account on your control.
+Accept payments with Visa/MasterCard, PayPal, Bank Transfer, +25 cryptocurrencies to pay tokens directly on addresses and account on your control.
 
 
 
@@ -46,21 +46,27 @@ About Us, projects descriptions, business presentation and whitepaper.
 You can change your profile details from the profile section.
 
 
+![Profile](docs/images/profile.png)
+
+
 #### Update personal data
 
 After click the profile section you will get this page and can update your personal data. You can not change your given email.
 
-
+![Profile](docs/images/profile.png)
 
 #### KYC/AML Application
 
 Yes/Yes
+
+![KYC](docs/images/KYC.png)
 
 
 #### Payment Methods
 
 It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH, BNB, XMR, TRX, XRP, XLM and USDT (Tether) etc.. Fiat: Bank Transfer amd Visa/MasterCard payments to make investment.
 
+![Payments](docs/images/payments.png)
 
 
 #### Cryptocurrency Payment Gataways
@@ -72,13 +78,13 @@ It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH
 
 In Transaction section you can see all the transaction you have made. In latest version included export option that allow to download all the transaction/user list in CSV with different edition (Entire, Compact, Minimal). Export also allows on after search/filter which is helps you get perfect export data for reuse.
 
-
+![Transactions](docs/images/transactions.png)
 
 #### Referral & Bonus System
 
 Dashboard has built-in referral bonus management system so investor/contributor can invite more people to bring into our platform. You can specify the bonus amount for both user as who invite and who join and bonus will automatically adjust once transaction approved.
 
-
+![Referral](docs/images/refellar.png)
 
 #### Security & Privacy Policy
 
