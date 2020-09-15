@@ -130,7 +130,7 @@ Dashboard has built-in referral bonus management system so investor/contributor 
 
 1.	Go on the official website — https://www.nordicenergy.io or register on the ICO & STO platform (dashboard) account: https://www.nordicenergy.app
 3.	Complete Your Identity Verification (KYC)
-4.	Enter your personal EOS (EOSIO) or ETH (Ethereum) wallet address
+4.	Enter your personal ETH (Ethereum) wallet address
 5.	Obtain the address for investing in Nordic Energy token (NET)
 6.	Please use the same address as entered on the Nordic Energy website https://www.nordicenergy.io to support the Nordic    Energy project by purchasing token and participate in the initial coin offering. 
 
