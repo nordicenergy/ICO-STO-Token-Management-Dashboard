@@ -1,4 +1,4 @@
-# Nordic Energy - ICO/STO Token Sale Management Dashboard
+## Nordic Energy - ICO/STO Token Sale Management Dashboard
 
 Token Sale Dashboard is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
 
