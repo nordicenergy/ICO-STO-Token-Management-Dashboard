@@ -1,0 +1,19 @@
+pre, code{
+	font-family: "Dank Mono";
+	font-style: italic;
+}
+
+h1{
+	color: teal !important;
+}
+
+h2{
+    border-bottom: 2px solid;
+}
+
+img {
+    border: 1px solid #c5bdbd;
+    margin: 10px 0;
+    border-radius: 5px;
+    overflow: hidden;
+}

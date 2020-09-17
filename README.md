@@ -1,19 +1,17 @@
+# Nordic Energy - ICO/STO Token Sale Management Dashboard
 
+Token Sale Dashboard is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
 
-# Nordic Energy - ICO & STO Launch Platform
+1. ICO/STO token sale platform and statistics dashboard panel to track Nordic Energy ICO/STO’s progress. 
 
-is a fully compliant security and utility token issuance platform with a post-token issuance our community, projects and company management, without any clouds and risk of trust to third party. Keep all private keys on your side (“NoWallet-NoHack”) with KYC services and stay in safe on legal field. 
-
-1. Token sale platform and statistics (dashboard) panel to track Nordic Energy ICO/STO’s progress. 
-
-2. Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase tokens very easily, manage and receive them securely.
+2. Ready-to-use smart contract, issuance and distribution of multiple tokens. Platform helps contributor and investor´s to purchase our tokens very easily, manage and receive them securely.
 
 
 ![Dashboard](docs/images/dashboard.png)
 
 
 
-#### We are not a custodian of your funds or assets!
+#### Notice! We are not a custodian of your funds or assets.
 
 We do not store any tokens, crypto assets or private keys on your behalf. All transactions are made by users on blockchain and are not controlled by us or third parties. It is totally safe standalone “your property solution”.
 
@@ -74,6 +72,7 @@ It’s support major and most popular cryptocurrencies** BTC, ETH, LTC, EOS, BCH
 - PayPal, Coinbase, and CoinPayments
 
 
+
 #### Transactions
 
 In Transaction section you can see all the transaction you have made. In latest version included export option that allow to download all the transaction/user list in CSV with different edition (Entire, Compact, Minimal). Export also allows on after search/filter which is helps you get perfect export data for reuse.
@@ -81,11 +80,14 @@ In Transaction section you can see all the transaction you have made. In latest 
 ![Transactions](docs/images/transactions.png)
 
 
+
 #### Referral & Bonus System
 
 Dashboard has built-in referral bonus management system so investor/contributor can invite more people to bring into our platform. You can specify the bonus amount for both user as who invite and who join and bonus will automatically adjust once transaction approved.
 
 ![Referrals](docs/images/referrals.png)
+
+
 
 #### Security & Privacy Policy
 
@@ -97,7 +99,7 @@ Dashboard has built-in referral bonus management system so investor/contributor 
 
 2. You can receive this code by in mobile app or email. Even if third person will find your password, then can’t access with that code.
 
-3. ICO & STO Platform included 2-Layer security option as Two-Factor Authentication (2FA) for every users so they can protect their account more strongly. Also system allow to change password through email confirmation which give more security for users.
+3. ICO/STO Token Sale Platform included 2-Layer security option as Two-Factor Authentication (2FA) for every users so they can protect their account more strongly. Also system allow to change password through email confirmation which give more security for users.
 
 
 ##### Information Collection And Use:
@@ -125,21 +127,24 @@ Dashboard has built-in referral bonus management system so investor/contributor 
 
 ### How to participate in a Initial Coin Offering (ICO)?
 
-#### Interested parties have the opportunity to purchase Nordic Energy (NET) tokens.
+
+#### Interested parties have the opportunity to purchase Nordic Energy tokens:
 
 
-1.	Go on the official website — https://www.nordicenergy.io or register on the ICO & STO platform (dashboard) account: https://www.nordicenergy.app
+1.	Go on the official website — https://www.nordicenergy.io or register on the ICO/STO token sale platform account: https://www.nordicenergy.app
 3.	Complete Your Identity Verification (KYC)
 4.	Enter your personal ETH (Ethereum) wallet address
 5.	Obtain the address for investing in Nordic Energy token (NET)
-6.	Please use the same address as entered on the Nordic Energy website https://www.nordicenergy.io to support the Nordic    Energy project by purchasing token and participate in the initial coin offering. 
+6.	Please use the same address as entered on the Nordic Energy website https://www.nordicenergy.io to support the Nordic Energy project and developments by purchasing token.
 
 
 
-#### Fuure Developments and upgrades to..
+#### Future Developments and upgrades to..
 
-- multi-token support of other Co-projects
+- multi-token support of other projects
+- Proof of Stake
 - support native cryptocurrency (NEC)
 - support Security Token (NEST)
 - AirDrop token
-- support multiple tokens and asset issuances in three different blockchains - Ethereum, Stellar, and EOSIO.
+- support multiple tokens and asset issuances in different blockchains
+

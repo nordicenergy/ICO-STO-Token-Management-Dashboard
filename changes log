@@ -1,6 +1,6 @@
 
 
-#ICO/STO Token Sale Managemen Dashboard Change Log
+#ICO/STO Token Sale Management Dashboard Change Log
 #
 
 **V.1.0.1**
@@ -12,7 +12,7 @@
 + Stage Based overview option added into My Token page for Users.
 + View Referrals by User from Users List in Admin panel.
 + Refund Option added for Approved transaction in Admin panel.
-+ Userpanel Setting added into ICO/STO Setting page in Admin panel.
++ User panel Setting added into ICO/STO Setting page in Admin panel.
 + 'Contribution In' currency can be choose from Userpanel Setting.
 + Refund email copy for user added into Email Templates.
 + Logo added for all Email Template (see documentation).
