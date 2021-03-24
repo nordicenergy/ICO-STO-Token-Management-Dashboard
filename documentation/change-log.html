@@ -1,3 +1,7 @@
+
+
+
+
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
@@ -295,6 +299,19 @@
     Current Version
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#update-to-newer-version" title="Update to Newer Version" class="md-nav__link">
+    Update to Newer Version
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -306,18 +323,33 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#version-v121-03102021" title="Version v1.2.1 - 03.10.2021" class="md-nav__link">
+    Version v1.2.1 - 03.10.2021
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#version-v120-03092021" title="Version v1.2.0 - 03.09.2021" class="md-nav__link">
+    Version v1.2.0 - 03.09.2021
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#version-v117-06092020" title="Version v1.1.7 - 06.09.2020" class="md-nav__link">
     Version v1.1.7 - 06.09.2020
   </a>
   
-</li>  
-
-        <li class="md-nav__item">
+</li>
+        
+          <li class="md-nav__item">
   <a href="#version-v116-06012020" title="Version v1.1.6 - 06.01.2020" class="md-nav__link">
     Version v1.1.6 - 06.01.2020
   </a>
   
-</li>        
+</li>
+        
           <li class="md-nav__item">
   <a href="#version-v115-11252019" title="Version v1.1.5 - 11.25.2019" class="md-nav__link">
     Version v1.1.5 - 11.25.2019
@@ -450,6 +482,19 @@
     Current Version
   </a>
   
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#update-to-newer-version" title="Update to Newer Version" class="md-nav__link">
+    Update to Newer Version
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -461,18 +506,34 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#version-v121-03102021" title="Version v1.2.1 - 03.10.2021" class="md-nav__link">
+    Version v1.2.1 - 03.10.2021
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#version-v120-03092021" title="Version v1.2.0 - 03.09.2021" class="md-nav__link">
+    Version v1.2.0 - 03.09.2021
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#version-v117-06092020" title="Version v1.1.7 - 06.09.2020" class="md-nav__link">
     Version v1.1.7 - 06.09.2020
   </a>
   
 </li>
+        
           <li class="md-nav__item">
   <a href="#version-v116-06012020" title="Version v1.1.6 - 06.01.2020" class="md-nav__link">
     Version v1.1.6 - 06.01.2020
   </a>
   
 </li>
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#version-v115-11252019" title="Version v1.1.5 - 11.25.2019" class="md-nav__link">
     Version v1.1.5 - 11.25.2019
   </a>
@@ -588,37 +649,61 @@
                 <h1 id="tokenlite-changes-log">TokenLite Changes Log.</h1>
 <h2 id="current-version">Current Version</h2>
 <blockquote>
-<p>Version: v1.1.7 <br> Updated: 09 Jun 2020  </p>
+<p>Version: v1.2.1 <br> Updated: 10 Mar, 2021</p>
 </blockquote>
 <div class="admonition danger">
-    <p class="admonition-title">IMPORTANT NOTICE: IF YOU ARE USING V1.1.3 OR LOWER<p>
-    <p>Please update your main application <strong>IMMEDIATELY</strong> as a critical calculational and security issues fixed in v1.1.5+</p>
+    <p class="admonition-title">UPDATE NOTICE: If you are using lower than V1.1.7</p>
+    <p>If you are using <strong>v1.1.7 or older version</strong> of the application and plan to upgrade new version of <strong>v1.2.0</strong>, then you must check your PHP version before upgrade, as the latest version required <strong>PHP 7.2.5</strong>.</p>
+    <p>Also, if you are facing slowness in token purchase process then you should update your main application. We've updated some major functionality to <strong>improve &amp; speed up the process of token purchase</strong> in <strong>v1.2.0</strong>.</p>
 </div>
 
-<div class="admonition warning">
-    <p class="admonition-title">Caution: Update to Newer Version</p>
-    <p>Please always keep backup your current database &amp; files before update to new version.
-    <br>Otherwise you may lost your data. You should follow and keep in mind below points when you perform a update.</p>
-    <ul>
-        <li>First keep backup whole site and database.</li>
-        <li>Download our latest package files from <strong>CodeCanyon</strong> and extract into your <strong>local computer</strong>.</li>
-        <li>On <strong>your SERVER</strong>, delete everything from <strong>`tokenlite_app`</strong> folder excerpt these folder <strong>`tokenlite_app/storage`</strong>, <strong>`tokenlite_app/bootstrap`</strong> and the file <strong>`tokenlite_app/.env`</strong>.</li>
-        <li>Now need to upload all the <strong>NEW</strong> files and folders from <strong>`tokenlite_app`</strong> folder excerpt these folder <strong>`tokenlite_app/storage`</strong>, <strong>`tokenlite_app/bootstrap`</strong> and the file <strong>`tokenlite_app/.env`</strong> into your SERVER. <br><em><small>You may create zip file without above mentioned folder and file and upload into server for save time.</small></em></li>
-        <li>After that, you need to upload all the NEW files and folder under <strong>`public/assets`</strong> into your SERVER public or public_html <strong>`/assets`</strong> folder.<br><em><small>If you are using lower than or v1.0.4 version and upgrade to version v1.0.5+, Please move all the brand related file into <strong>`public/images`</strong>. <br>Please check out <a href="branding.html">how to change Branding</a> related files.</small></em></li>
-        <li>After above done & before start using the website again, please delete the cache files under these <strong>`tokenlite_app/bootstrap/cache`</strong>, <strong>`tokenlite_app/storage/framework/views`</strong>, <strong>`tokenlite_app/storage/framework/sessions`</strong> & <strong>`tokenlite_app/storage/framework/cache`</strong> folder.</li>
-        <li>Finally you have to login into admin panel and click 'Clear Cache', and then go Settings>Manage Languages page and just regenarate all the language file. After that check everything is working well or not.</li>
-        <li><strong>Important:</strong> If you using older than <strong>v1.1.0</strong> version of core application, and want to upgrade to latest version then you must follow <strong><a href="#must-v110">this instruction</a></strong>.</li>
-        <li><strong>Caution:</strong> You should keep in mind and follow each update foot note when you upgrade.</li>
-        <li>Note: If you are using older than <strong>v1.1.2</strong> version and already transalate then lost every thing once you updated <strong>v1.1.3+</strong>. And you will need to re-translate from admin panel everything.<br><em><small>No longer need to edit or change hard code for active language.</small></em></li>
-        <li>If you have any question regarding upgrade, please feel free to contact our support team.</li>
-    </ul>
-</div>
-
+<h3 id="update-to-newer-version">Update to Newer Version</h3>
+<p><a href="upgrade.html">Please follow the guideline here</a></p>
 <hr />
 <h2 id="changes-log">Changes Log</h2>
+<h3 id="version-v121-03102021">Version v1.2.1 <small>- 03.10.2021</small></h3>
+<ul>
+<li>Fixed: Validation issues fixed on activation for new installation.</li>
+</ul>
+<h3 id="version-v120-03092021">Version v1.2.0 <small>- 03.09.2021</small></h3>
+<p><div class="admonition warning">
+    <p class="admonition-title">MAJOR UPDATE RELEASE:</p>
+    <ul>
+        <li>Improve overall system performance.</li>
+        <li>Integrated query cache system into application.</li>
+        <li>Majorly speed up the <strong>token purchase process</strong>.</li>
+        <li>PHP <strong>7.2.5</strong> is requried to run the latest version.</li>
+        <li>New version of Application tested with <strong>PHP 7.4</strong>.</li>
+        <li>Updated all the PHP libraries to improve security.</li>
+    </ul>
+</div></p>
+<ul>
+<li>Added: <strong>6 more new fiat currency</strong> added into the application for localized. <br><small><em>Currencies are - Hungarian Forint [HUF], Pakistani Rupee [PKR], Egyptian Pound [EGP], Chilean Peso [CLP], Colombian Peso [COP], Jamaican Dollar [JMD]</em></small>.</li>
+<li>Added: <strong>KYC Application</strong> show / hide option added in admin panel.</li>
+<li>Added: <strong>Token Sales Progress</strong> show / hide option added in admin panel.</li>
+<li>Added: <strong>Welcome block</strong> image show / hide option added in admin panel.</li>
+<li>Added: <strong>3 more stage</strong> added into system, so total 15 stage allow use.</li>
+<li>Fixed: <strong>Slow down issues fixed</strong> in token purchase process.</li>
+<li>Fixed: Minimum token amount to purchase setting issues (it can set 1 now).</li>
+<li>Fixed: Security issues of KYC document view permission for a user.</li>
+<li>Updated: All the payment method updated for improving speed.</li>
+<li>Updated: Payment methods updated based on new currency.</li>
+<li>Updated: Font library update for new currency as well as stylesheet.</li>
+<li><strong>Updated: All the vendor packages/php libraries updated to imporve security issues.</strong></li>
+</ul>
+<div class="admonition danger" id="must-v110">
+    <p class="admonition-title">Caution: Check PHP version before update</p>
+    <p>If you are using <strong>v1.1.7 or older version</strong> of the application and plan to upgrade new version of <strong>v1.2.0</strong>, then you must check your PHP version before upgrade, as the latest version required <strong>PHP 7.2.5</strong>.</p>
+    <p>You should upgrade your PHP version from your server if you are using lower than <strong>PHP 7.2.5</strong> version.</p>
+</div>
+
+<div class="admonition info">
+    <p class="admonition-title">Note: As always review all the application settings after upgrade to newer version.</p>
+</div>
+
 <h3 id="version-v117-06092020">Version v1.1.7 <small>- 06.09.2020</small></h3>
 <ul>
-<li>Fixed: Bitcoin address validation issues.</li>
+<li>Fixed: Fixed: Bitcoin address validation issues.</li>
 <li>Updated: Some vendor package library updated.</li>
 </ul>
 <div class="admonition info">
@@ -627,21 +712,21 @@
 
 <h3 id="version-v116-06012020">Version v1.1.6 <small>- 06.01.2020</small></h3>
 <ul>
-<li>Added: <strong>13 New Fiat Currency</strong> ('Mexican Peso [MXN]', 'Philippine Peso [PHP]', 'Swiss franc [CHF]', 'Thai Baht [THB]', 'Singapore dollar [SGD]', 'Czech koruna [CZK]', 'Norwegian krone [NOK]', 'South African rand [ZAR]', 'Swedish krona [SEK]', 'Kenyan shilling [KES]', 'Namibian dollar [NAD]', 'Danish krone [DKK]', 'Hong Kong dollar [HKD]') added into system.</li>
+<li>Added: <strong>13 new fiat currency</strong> added into the application. <br>
+    <em><small>Mexican Peso [MXN], Philippine Peso [PHP], Swiss franc [CHF], Thai Baht [THB], Singapore dollar [SGD], Czech koruna [CZK], Norwegian krone [NOK], South African rand [ZAR], Swedish krona [SEK], Kenyan shilling [KES], Namibian dollar [NAD], Danish krone [DKK], Hong Kong dollar [HKD]</small>.</em></li>
 <li>Added: Admin can select <strong>default language</strong> for user panel, user can switch prefer one.</li>
 <li>Added: <strong>6 more stage</strong> added into system, so total 12 stage allow use.</li>
 <li>Fixed: minor issues adjusted into login system.</li>
 <li>Updated: Payment method updated based on new currency.</li>
-<li>Updated: Custom font libray for currency as well as stylesheet.</li>
+<li>Updated: Font library update for new currency as well as stylesheet.</li>
 </ul>
 <div class="admonition info">
     <p class="admonition-title">Note: As always review all the application settings after upgrade to newer version.</p>
 </div>
 
-<h2 id="changes-log">Changes Log</h2>
 <h3 id="version-v115-11252019">Version v1.1.5 <small>- 11.25.2019</small></h3>
 <ul>
-<li>Added: <strong>6 New Fiat Currency</strong> ('Brazilian Real (BRL)', 'New Zealand Dollar (NZD)', 'Polish Złoty (PLN)', 'Japanese Yen (JPY)', 'Malaysian Ringgit (MYR)', 'Indonesian Rupiah (IDR)') added into system.</li>
+<li>Added: <strong>6 New Fiat Currency</strong> (Brazilian Real [BRL], 'New Zealand Dollar (NZD)', 'Polish Złoty (PLN)', 'Japanese Yen (JPY)', 'Malaysian Ringgit (MYR)', 'Indonesian Rupiah (IDR)') added into system.</li>
 <li>Added: <strong>2 New Crypto-Currency</strong> (Waves [WAVES], Monero [XMR]) added into system.</li>
 <li>Fixed: Maximum loging attemt issues and set limit to 5 before locked down for while.</li>
 <li>Fixed: Fixed number format issues as display scientific format. </li>
